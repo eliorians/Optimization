@@ -52,7 +52,7 @@ def fibonacci_method(a, b, epsilon):
 def main():
     a = 1
     b = 2
-    epsilon = 0.0005
+    epsilon = 0.05
 
     fibonacci_method(a, b, epsilon)
 
